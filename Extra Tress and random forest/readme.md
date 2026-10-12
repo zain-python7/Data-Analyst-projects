@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project compares **Random Forest Classifier** and **Extra Trees Classifier** on a synthetic dataset using Python and Scikit-learn.
+This project compares **Random Forest Classifier** and **Extra Tress Classifier** on a synthetic dataset using Python and Scikit-learn.
 
 ## Dataset
 
